@@ -1,0 +1,17 @@
+{
+  "Informatics":
+  {
+    "lectures": 100,
+    "practice": 50,
+    "laboratories": 20
+  },
+  "Physics":
+  {
+    "lectures": 30,
+    "laboratories": 10
+  },
+  "Physical Education":
+  {
+    "practice": 30
+  }
+}

@@ -1,0 +1,8 @@
+cat Musya
+dog Petya
+
+mouse Lida
+
+bear Dima
+tiger Pasha
+fox Sveta

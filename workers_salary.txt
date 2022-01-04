@@ -1,0 +1,8 @@
+Kuzin 30000
+Petrova 10000
+
+Stepanov 1000
+Pavlov 35000
+
+Kaprin 40000
+Ivanov 50500
